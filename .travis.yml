@@ -6,3 +6,5 @@ script:
   - cd build
   - cmake ..
   - cmake --build .
+  - ./prog
+  - ls
