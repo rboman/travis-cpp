@@ -1,5 +1,5 @@
-dist: xenial
-#dist: trusty
+#dist: xenial   # <= not supported yet
+dist: trusty
 sudo: false
 language: cpp
 script:
